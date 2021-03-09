@@ -8,7 +8,7 @@ credit for the original creator: M00DY (M.J.Aman)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
-   <formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>
 
 	<feature supported="carousel">
 	   <view name="system">
@@ -38,30 +38,20 @@ credit for the original creator: M00DY (M.J.Aman)
 			 <fontSize>0.04</fontSize>
 			 <zIndex>5</zIndex>	     
 		  </text>
-		  <text name="clock">
-			 <origin>0 0</origin>
-			 <pos>0.020833333333333 0.034375</pos>
-			 <size>0.1666666666666667 0.03125</size>
-			 <fontSize>0.03125</fontSize>
-			 <alignment>left</alignment>
-			 <verticalAlignment>center</verticalAlignment>
-			 <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-			 <color>FFFFFF55</color>
-		  </text>
 	   </view>
 	</feature>
 
-   <view name="system">
-      <helpsystem name="help">
-         <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
-         <fontSize>0.03</fontSize>     
-         <pos>0.1 0.948</pos>      
-         <textColor>ffffff</textColor>
-         <iconColor>ffffff</iconColor>
-      </helpsystem>
-   </view>  
+	<view name="system">
+		<helpsystem name="help">
+			<fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
+			<fontSize>0.03</fontSize>     
+			<pos>0.1 0.948</pos>      
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
+		</helpsystem>
+	</view>  
 
-   <view name="detailed,video,basic">
+	<view name="detailed,video,basic">
       <helpsystem name="help">
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
          <fontSize>0.1</fontSize>     
@@ -69,9 +59,9 @@ credit for the original creator: M00DY (M.J.Aman)
          <textColor>ffffff</textColor>
          <iconColor>ffffff</iconColor>
       </helpsystem>
-   </view>  
+	</view>  
 
-   <view name="basic,detailed,video">
+	<view name="basic,detailed,video">
 		<textlist name="gamelist">      
 			<selectorColor>7a4545</selectorColor>
 			<selectedColor>ffffff</selectedColor>
@@ -83,8 +73,8 @@ credit for the original creator: M00DY (M.J.Aman)
 			<scrollSound>./_inc/sounds/Move.wav</scrollSound>
 			<zIndex>3</zIndex>                          
 		</textlist>
-   </view> 
-   
+	</view> 
+
 	<view name="basic">
 		<textlist name="gamelist">
 			<pos>0.2 0.19</pos>
@@ -97,7 +87,7 @@ credit for the original creator: M00DY (M.J.Aman)
 			 <size>1 1</size>        
 			 <path>./_inc/images/background_basic.png</path>
 			 <zIndex>1</zIndex>          
-		</image>  
+		</image>
    </view>
    
     <view name="detailed,video">
