@@ -1,10 +1,9 @@
 <!--
-theme name:     M00DY x Alekfull - Solo Theme - Szalik + Xargon's Edition
-creator:		M00DY (M.J.Aman)
-edited by:		Xargon, /u/XargonWan, Szalik
-ig:				https://www.instagram.com/mjaman/
-artwork: 		Alekfull (https://www.facebook.com/alekfull.arcade/)
+theme name:     Horizontal-Szalik + Xargon's Edition
+edited by:		Szalik, Xargon, /u/XargonWan, 
 version         1.0
+
+credit for the original creator: M00DY (M.J.Aman)
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -39,11 +38,16 @@ version         1.0
 	     <fontSize>0.04</fontSize>
          <zIndex>5</zIndex>	     
       </text>
-	  <!--<text name="clock">
-		<pos>0.75 0.75</pos>
-		<zIndex>5</zIndex>
-		<format>%H:%M</format>
-	  </text>-->
+	  <text name="clock">
+         <origin>0 0</origin>
+         <pos>0.020833333333333 0.034375</pos>
+         <size>0.1666666666666667 0.03125</size>
+         <fontSize>0.03125</fontSize>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
+         <color>FFFFFF55</color>
+      </text>
    </view>
 </feature>
 
