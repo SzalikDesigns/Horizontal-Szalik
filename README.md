@@ -1,10 +1,27 @@
-# AlekFull Solo Horizontal - Xargon's Edition
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────
+─██████████████─██████████████─████████───██████████████─██████─────────██████████████─██████████████─
+─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░██───██░░░░░░░░░░██─██░░██─────────██░░░░░░░░░░██─██░░░░░░░░░░██─
+─██████████░░██─██░░██████████─████░░██───██░░██████████─██░░██─────────██░░██████████─██░░██████████─
+─────────██░░██─██░░██───────────██░░██───██░░██─────────██░░██─────────██░░██─────────██░░██─────────
+─██████████░░██─██░░██████████───██░░██───██░░██████████─██░░██─────────██░░██████████─██░░██─────────
+─██░░░░░░░░░░██─██░░░░░░░░░░██───██░░██───██░░░░░░░░░░██─██░░██─────────██░░░░░░░░░░██─██░░██─────────
+─██████████░░██─██████████░░██───██░░██───██░░██████████─██░░██─────────██░░██████████─██░░██─────────
+─────────██░░██─────────██░░██───██░░██───██░░██─────────██░░██─────────██░░██─────────██░░██─────────
+─██████████░░██─██████████░░██─████░░████─██░░██████████─██░░██████████─██░░██████████─██░░██████████─
+─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─
+─██████████████─██████████████─██████████─██████████████─██████████████─██████████████─██████████████─
+──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Theme inspired by **#1**, created from 0 by me specialy for 351ELEC community.
+
+**#1** Solo Horizontal AlekFull
 My edition of the default RG351P Emulationstation/EmuELEC theme.
 
+**Xargon's Edits:**
 Added fetures:
 
 *General*
-- Fixed hack roms folder names
 - Added game countr on System screen (thanks to /u/Avigrace)
 
 *Gamelist style Video:*
@@ -12,28 +29,5 @@ Added fetures:
 - Increased video size
 - Added game info under the video: Name, Rating, Release date
 
-*TODO:*
-- Add the clock
-- Add the battery percentage
-- Improve the gamelist
-- Clean some system images
-
-*How to install:*
-- Download the theme by pressing the green code button on the upper right corner of this page and pressing Download ZIP button.
-- Extract the theme
-- Place the extracted fonder into your RG351P folder: /storage/.config/emulationstation/themes
-- Check that the folder you've placed is named AlekFull-Solo-Horizontal-Xargons-ED and contains all the folders and the theme.xml, so the full patch will be: /storage/.config/emulationstation/themes/AlekFull-Solo-Horizontal-Xargons-ED/theme.xml
-
-*How to apply the theme:*
-- When on the system list press START
-- Navigate to UI Settings
-- Navigate to Theme Set
-- Select AlekFull-Solo-Horizontal-Xargons-ED
-- To see my edits set the Gamelist View Style as "Video"
-- Enjoy.
-
-*Useful resources:*
-- https://github.com/Aloshi/EmulationStation/blob/master/THEMES.md
-- https://wiki.batocera.org/write_themes_for_emulationstation
-
-Please feel free to suggest or propose modifcations.
+LOGO NOTICE
+The used logos and trademarks are copyright of their respective owners.
