@@ -15,7 +15,7 @@ My edition of the default RG351P Emulationstation/EmuELEC theme.
 Added fetures:
 
 *General*
-- Added game countr on System screen (thanks to /u/Avigrace)
+- Added game counter on System screen (thanks to /u/Avigrace)
 
 *Gamelist style Video:*
 - Reduced game title size
