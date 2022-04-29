@@ -1,13 +1,12 @@
 
-██████╗░███████╗░░███╗░░███████╗██╗░░░░░███████╗░█████╗░
-╚════██╗██╔════╝░████║░░██╔════╝██║░░░░░██╔════╝██╔══██╗
-░█████╔╝██████╗░██╔██║░░█████╗░░██║░░░░░█████╗░░██║░░╚═╝
-░╚═══██╗╚════██╗╚═╝██║░░██╔══╝░░██║░░░░░██╔══╝░░██║░░██╗
-██████╔╝██████╔╝███████╗███████╗███████╗███████╗╚█████╔╝
-╚═════╝░╚═════╝░╚══════╝╚══════╝╚══════╝╚══════╝░╚════╝░
-
+░█████╗░███╗░░░███╗██████╗░███████╗██████╗░███████╗██╗░░░░░███████╗░█████╗░
+██╔══██╗████╗░████║██╔══██╗██╔════╝██╔══██╗██╔════╝██║░░░░░██╔════╝██╔══██╗
+███████║██╔████╔██║██████╦╝█████╗░░██████╔╝█████╗░░██║░░░░░█████╗░░██║░░╚═╝
+██╔══██║██║╚██╔╝██║██╔══██╗██╔══╝░░██╔══██╗██╔══╝░░██║░░░░░██╔══╝░░██║░░██╗
+██║░░██║██║░╚═╝░██║██████╦╝███████╗██║░░██║███████╗███████╗███████╗╚█████╔╝
+╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░
 ### 
-Theme inspired by "Solo Horizontal AlekFull", graphics made from 0 by Szalik special for 351ELEC community.
+Theme inspired by "Solo Horizontal AlekFull", graphics made from 0 by Szalik special for AmberELEC community.
 
 ---
 
@@ -26,3 +25,9 @@ Added fetures:
 
 ### LOGO NOTICE
 The used logos and trademarks are copyright of their respective owners.
+
+--------------------------------------------------------------------
+## License
+This theme is being actively developed, a great deal of work has been put into the theme and art so please do not use the graphics I have created in other projects.
+
+You are free to modify the theme for your personal use
